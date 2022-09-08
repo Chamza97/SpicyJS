@@ -1,0 +1,13 @@
+{
+  "name": "spicyjs",
+  "description": "chatbot e-commerce",
+  "version": "0.0.1",
+  "main" : "server.js",
+  "engines": {
+    "npm": "7.10.0",
+    "yarn" : "1.22.10"
+  },
+    "scripts": {
+      "start" : "cd backend  && npm start"
+  }
+}

@@ -1,0 +1,307 @@
+categories:
+- clavier
+conversations:
+- - i would buy something
+  - what you want to buy
+- - i would to buy something
+  - what you want to buy
+- - i want to buy
+  - what you want to buy
+- - i want to buy something
+  - what you want to buy
+- - buy something
+  - what you want to buy
+- - buy
+  - what you want to buy
+- - hi
+  - Hi there, Can i help you
+- - greating
+  - Hi there, Can i help you
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - msi
+  - Please enter your average budget
+  - "[100..150..200..300..400..500..600..700..800..900..1000]"
+  - please wait
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - ASUS
+  - Please enter your average budget
+  - "[100..150..200..300..400..500..600..700..800..900..1000]"
+  - please wait
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - hp
+  - Please enter your average budget
+  - "[100..150..200..300..400..500..600..700..800..900..1000]"
+  - please wait
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - dell
+  - Please enter your average budget
+  - "[100..150..200..300..400..500..600..700..800..900..1000]"
+  - please wait
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - acer
+  - Please enter your average budget
+  - "[100..150..200..300..400..500..600..700..800..900..1000]"
+  - please wait
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - acme
+  - Please enter your average budget
+  - "[100..150..200..300..400..500..600..700..800..900..1000]"
+  - please wait
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - advance
+  - Please enter your average budget
+  - "[100..150..200..300..400..500..600..700..800..900..1000]"
+  - please wait
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - lenovo
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - casio
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - CIRKUIT PLANET
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - cooler master
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - corsair
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - eshark
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - havit
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - hikvision
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - hyperX
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - jedel
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - juke
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - konix
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - logitech
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - lohamann
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - Macro
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - microsoft
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - ngs
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - nitrox
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - platinet
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - razer
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - redragon
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - sbox
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - spirit of gamer
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - t-dagger
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - tnb
+  - Please enter your average budget
+- - hello
+  - Hi there, Can i help you
+  - yes, i would buy something
+  - what you want to buy
+  - clavier
+  - Do you have an exact brand
+  - white shark
+  - Please enter your average budget
+- - "[100..150..200..300..400..500..600..700..800..900..1000]"
+  - please wait
+- - "[1100..1150..1200..1300..1400..1500..1600..1700..1800..1900..2000]"
+  - please wait
+- - "[1250..1300..1350..1400..1450..150..1550..1600..1650..1700..1750]"
+  - please wait
+- - "[2100..2150..2200..2300..2400..2500..2600..2700..2800..2900..3000]"
+  - please wait
+- - "[3100..3150..3200..3300..3400..3500..3600..3700..3800..3900..4000]"
+  - please wait
